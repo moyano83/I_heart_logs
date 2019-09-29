@@ -236,6 +236,5 @@ The majority of what is left in order to have a distributed system is related to
  partitioning, indexing, and query capability on top of that data stream.
  
 ### Conclusion
-
 Logs give us a principled way to model changing data as it cascades through a distributed system. Having this kind of basic abstraction in place gives us a way of gluing 
 together disparate data systems, process‐ ing real-time changes, as well as a being an interesting system and application architecture in its own right.
